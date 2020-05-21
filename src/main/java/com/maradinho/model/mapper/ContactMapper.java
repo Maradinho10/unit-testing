@@ -11,4 +11,5 @@ import java.util.List;
 public interface ContactMapper {
     ContactDto entityToDto(Contact entity);
     List<ContactDto> entitiesToDtos(List<Contact> entities);
+    Contact dtoToEntity(ContactDto dto);
 }
