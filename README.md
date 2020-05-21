@@ -12,7 +12,7 @@ Clone the [repository](https://github.com/Maradinho10/unit-testing.git) to local
 
 - /contacts HTTP GET - Gets all the contacts
 
-## RESTful service examples  
+## RESTful service examples
 
 ### Find all contacts
 ```
