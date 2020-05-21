@@ -23,4 +23,12 @@ public class ContactService {
 
         return mapper.entitiesToDtos(contacts);
     }
+
+    public ContactDto add(ContactDto param) {
+        return null;
+    }
+
+    public Contact save(Contact param) {
+        return repository.save(param);
+    }
 }
