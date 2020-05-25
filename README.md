@@ -1,4 +1,4 @@
-## RESTful service built with Spring Boot 2.x
+# RESTful service built with Spring Boot 2.x
 
 A sample RESTful customer service built with Spring boot 2.2.2, JPA and JDK 8.
 This project is created as a learning exercise with the primary goal of applying unit testing to commonly used tools 
@@ -7,6 +7,14 @@ such as Spring Framework, Hibernate/JPA, REST, among others.
 ## How to start
 
 Clone the [repository](https://github.com/Maradinho10/unit-testing.git) to local. In `unit-testing` folder, run `./mvnw spring-boot:run` to start the application.
+
+## Stack
+
+- Spring Boot
+- Hibernate
+- JUnit
+- Flyway
+- MapStruct
 
 ## The RESTful services
 
