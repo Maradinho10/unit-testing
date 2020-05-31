@@ -18,13 +18,13 @@ Clone the [repository](https://github.com/Maradinho10/unit-testing.git) to local
 
 ## The RESTful services
 
-- /contacts HTTP GET - Gets all the contacts
+- /api/contacts HTTP GET - Gets all the contacts
 
 ## RESTful service examples
 
 ### Find all contacts
 ```
-curl -s -G http://localhost:8080/contacts | json_p
+curl -s -G http://localhost:8080/api/contacts | json_p
 
 [
     {
