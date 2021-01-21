@@ -6,7 +6,7 @@ such as Spring Framework, Hibernate/JPA, REST, among others.
 
 ## How to start
 
-Clone the [repository](https://github.com/Maradinho10/unit-testing.git) to local. In `unit-testing` folder, run `./mvnw spring-boot:run` to start the application .
+Clone the [repository](https://github.com/Maradinho10/unit-testing.git) to local. In `unit-testing` folder, run `./mvnw spring-boot:run` to start the application.
 
 ## Stack
 
